@@ -1,4 +1,4 @@
-Hello there!
+Hello there, friend!
 
 Welcome to my Github!
 
